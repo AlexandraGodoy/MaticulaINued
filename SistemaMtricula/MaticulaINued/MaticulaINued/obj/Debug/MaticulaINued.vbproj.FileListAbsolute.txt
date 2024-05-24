@@ -1,0 +1,12 @@
+D:\Programación3\SegundoParcial\SistemaMtricula\MaticulaINued\MaticulaINued\bin\Debug\MaticulaINued.exe.config
+D:\Programación3\SegundoParcial\SistemaMtricula\MaticulaINued\MaticulaINued\bin\Debug\MaticulaINued.exe
+D:\Programación3\SegundoParcial\SistemaMtricula\MaticulaINued\MaticulaINued\bin\Debug\MaticulaINued.pdb
+D:\Programación3\SegundoParcial\SistemaMtricula\MaticulaINued\MaticulaINued\bin\Debug\MaticulaINued.xml
+D:\Programación3\SegundoParcial\SistemaMtricula\MaticulaINued\MaticulaINued\obj\Debug\MaticulaINued.vbproj.AssemblyReference.cache
+D:\Programación3\SegundoParcial\SistemaMtricula\MaticulaINued\MaticulaINued\obj\Debug\MaticulaINued.Form1.resources
+D:\Programación3\SegundoParcial\SistemaMtricula\MaticulaINued\MaticulaINued\obj\Debug\MaticulaINued.Resources.resources
+D:\Programación3\SegundoParcial\SistemaMtricula\MaticulaINued\MaticulaINued\obj\Debug\MaticulaINued.vbproj.GenerateResource.cache
+D:\Programación3\SegundoParcial\SistemaMtricula\MaticulaINued\MaticulaINued\obj\Debug\MaticulaINued.vbproj.CoreCompileInputs.cache
+D:\Programación3\SegundoParcial\SistemaMtricula\MaticulaINued\MaticulaINued\obj\Debug\MaticulaINued.exe
+D:\Programación3\SegundoParcial\SistemaMtricula\MaticulaINued\MaticulaINued\obj\Debug\MaticulaINued.xml
+D:\Programación3\SegundoParcial\SistemaMtricula\MaticulaINued\MaticulaINued\obj\Debug\MaticulaINued.pdb
